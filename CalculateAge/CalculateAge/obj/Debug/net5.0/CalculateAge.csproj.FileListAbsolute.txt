@@ -1,0 +1,16 @@
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\obj\Debug\net5.0\CalculateAge.csproj.AssemblyReference.cache
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\obj\Debug\net5.0\CalculateAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\obj\Debug\net5.0\CalculateAge.AssemblyInfoInputs.cache
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\obj\Debug\net5.0\CalculateAge.AssemblyInfo.cs
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\obj\Debug\net5.0\CalculateAge.csproj.CoreCompileInputs.cache
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\bin\Debug\net5.0\CalculateAge.exe
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\bin\Debug\net5.0\CalculateAge.deps.json
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\bin\Debug\net5.0\CalculateAge.runtimeconfig.json
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\bin\Debug\net5.0\CalculateAge.runtimeconfig.dev.json
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\bin\Debug\net5.0\CalculateAge.dll
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\bin\Debug\net5.0\ref\CalculateAge.dll
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\bin\Debug\net5.0\CalculateAge.pdb
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\obj\Debug\net5.0\CalculateAge.dll
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\obj\Debug\net5.0\ref\CalculateAge.dll
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\obj\Debug\net5.0\CalculateAge.pdb
+C:\Users\therr\Desktop\Visual-Studio\unit_1\Random practice\Challenges\calculate-age\CalculateAge\CalculateAge\obj\Debug\net5.0\CalculateAge.genruntimeconfig.cache
