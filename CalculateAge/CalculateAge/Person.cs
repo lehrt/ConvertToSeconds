@@ -15,7 +15,7 @@ namespace CalculateAge
             this.BirthDate = birthday;
         }
 
-        public void ConvertAgeToSeconds()
+        public void ConvertAgeToSeconds() //3.
         {
             DateTime birthday = DateTime.Parse(this.BirthDate);
             DateTime now = DateTime.Now;
@@ -23,7 +23,6 @@ namespace CalculateAge
             int total = (int)t.TotalDays;
             int seconds = total * 86400;
             Console.WriteLine($"Your birthday is {this.BirthDate}, which means you are {seconds} seconds old!");
-
         }
     }
 }
